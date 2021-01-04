@@ -66,12 +66,11 @@ p{
     text-align: justify;
 }
 .box-design{
-
+    width: 40%;
     box-shadow: 10px 10px 40px gray;
-    padding-left: 25px;
-    padding-right: 25px;
     border-radius: 10px;
     height: 70%;
+    padding: 25px;
    
     
  
@@ -97,4 +96,9 @@ p{
 .black {
     padding-left: 65px;
     color: black;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    font-size: 15px;
 }
