@@ -18,7 +18,8 @@ h1{
 }
 .half-width img{
     width: 100%;
-    margin-top: 10%;
+    padding-top: 20px;
+    
 }
 .top-banner{
     background-image: url("image/top-banner.png");
@@ -26,6 +27,8 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 5%;
+    
 }
 .link-button{
     border-radius: 5px;
@@ -33,8 +36,20 @@ section{
     background-image: linear-gradient(150deg, rgb(0, 255, 221), darkblue);    
     text-decoration: none;
     color: black;
-    font-weight: 700;
+    font-weight: 700;  
+}
+h2{
+    font-size: 40px;
+    color: #0091f1;
 
-    
-    
+}
+h3{
+    color: dimgray;
+}
+.dream-area{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 3%;
+
 }
