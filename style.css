@@ -29,6 +29,7 @@ h1{
 section{
     height: 500px;
     padding-bottom: 5%;
+    display: inline-block;
     
 }
 .link-button{
@@ -80,6 +81,7 @@ p{
     background-position: left ;
     background-repeat: no-repeat;
     padding-left: 1%;
+    overflow: scroll;
 
 }
 #full-stack{
